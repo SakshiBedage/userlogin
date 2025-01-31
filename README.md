@@ -1,1 +1,1 @@
-# userlogin
+This app is written to demonstrate the Lifecycle method of the react component . In this app , login component is written with class component where lifecycle methods are implemented for demonstration. 
